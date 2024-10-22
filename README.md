@@ -19,7 +19,6 @@ The project structure is organized as follows:
 
 - RESTful API using Gin
 - Clean Architecture for scalable and maintainable code
-- Dockerized setup for easy deployment
 - Test coverage for critical components
 
 ## Requirements
